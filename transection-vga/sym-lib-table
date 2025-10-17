@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ArylsComponents")(type "KiCad")(uri "/home/aryl/Dropbox/KiCad/ArylsComponents.kicad_sym")(options "")(descr ""))
+  (lib (name "vga_lib")(type "KiCad")(uri "${KIPRJMOD}/vga_lib.kicad_sym")(options "")(descr ""))
+)

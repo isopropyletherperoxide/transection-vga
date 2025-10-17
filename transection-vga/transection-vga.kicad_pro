@@ -500,7 +500,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../Documents/VGA/",
+      "plot": "grbr/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

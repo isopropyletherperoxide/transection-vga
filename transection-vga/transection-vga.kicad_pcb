@@ -1637,7 +1637,7 @@
 		(property "Reference" "J1"
 			(at -4.315 2.77 0)
 			(layer "B.SilkS")
-			(uuid "f220722a-9d1f-48a8-b3a9-69c9730e83bc")
+			(uuid "08e123ec-f19d-46d4-bb61-1be786109c44")
 			(effects
 				(font
 					(size 1 1)
@@ -1649,7 +1649,7 @@
 		(property "Value" "VGA_Socket"
 			(at -4.315 -14.73 0)
 			(layer "B.Fab")
-			(uuid "83abdc1d-6f1f-4ada-b0d3-be40d3a502b1")
+			(uuid "35b9a657-808e-4bba-ab8e-9bc0bc306e7b")
 			(effects
 				(font
 					(size 1 1)
@@ -1662,7 +1662,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1c9aa0be-cae7-42d9-b9c8-fe394bcbeef6")
+			(uuid "533e2c68-24f0-482b-8f24-8db798c6398a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1675,7 +1675,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "571d45ad-e304-4ad3-838a-15feb258d7bc")
+			(uuid "092f9dca-e971-4c30-8c13-dbe890c54c06")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3753,6 +3753,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "vga transectomy by aryl\nhttps://aryl.org"
+		(at 135.75 86 -0)
+		(layer "F.SilkS")
+		(uuid "b4f68c74-ede2-45d0-b827-9484978793ea")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "ID2"
 		(at 135.59 104.5 45)
 		(layer "F.SilkS")
@@ -4015,6 +4027,18 @@
 				(thickness 0.1)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "vga transectomy by aryl\nhttps://aryl.org"
+		(at 135.75 111.25 0)
+		(layer "B.SilkS")
+		(uuid "49fdaaf9-e738-46e3-91c4-4b689e9a4de7")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify bottom mirror)
 		)
 	)
 	(gr_text "VSY"

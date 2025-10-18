@@ -3753,8 +3753,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "vga transectomy by aryl\nhttps://aryl.org"
-		(at 135.75 86 -0)
+	(gr_text "vga transection by aryl\nhttps://aryl.org"
+		(at 135.75 86 0)
 		(layer "F.SilkS")
 		(uuid "b4f68c74-ede2-45d0-b827-9484978793ea")
 		(effects
@@ -4029,7 +4029,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "vga transectomy by aryl\nhttps://aryl.org"
+	(gr_text "vga transection by aryl\nhttps://aryl.org"
 		(at 135.75 111.25 0)
 		(layer "B.SilkS")
 		(uuid "49fdaaf9-e738-46e3-91c4-4b689e9a4de7")
